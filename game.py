@@ -3,13 +3,13 @@
 #if you do hit the like button.
 #Thank you :) 
 ##################ENJOY#####################                                                             
-print(" __          ______		 ____  ____     __       ____   ____           __________ ")                                   
-print(" |   |         | 		\		| 	|  |	  |   /	\	|	  |   |    |           |    _______|")                                     
-print(" |   |         |     |\	\	  |	 |  |	  |/		\   |      |  |     |          |    |_______")                                           
-print(" |   |         |     |   \    \  |	  |  |			/\	\|	  |   |     |          |    _______|")                                    
-print(" |   | ____ |     |     \     \|     |  |		 /	 \ 	 	|    |     |____   |     |")                                                      
-print(" |           | |     |       \           |  		/  	  \		|    |             |  |     |")                                                      
-print("  ------------ |___|        \______|  |___/			\___|     |_______|  |___|")                              
+print(" oo_________________________________________________ooo_____oooo_")                          
+print(" oo_______ooooo__oo_ooo___ooooo__oo_______o__ooooo___oo____oo____")                                     
+print(" oo______oo___oo_ooo___o_oo____o_oo__oo___o_oo___oo__oo___ooooo__")                                           
+print(" oo______oo___oo_oo____o_ooooooo_oo__oo___o_oo___oo__oo___oo_____")                                    
+print(" oo______oo___oo_oo____o_oo_______oo_oo__o__oo___oo__oo___oo_____")                                                      
+print(" ooooooo__ooooo__oo____o__ooooo____oo__oo____ooooo__ooooo_oo_____")                                                      
+print(" ________________________________________________________________")                              
 import random
 userHand = input("Chose between rock,paper or scissors:\n")
 computerHand = random.random()
